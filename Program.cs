@@ -22,6 +22,7 @@ namespace HomeWork3
         /// </summary>
         private double re; // private
 
+
         #endregion
 
         #region Свойства
